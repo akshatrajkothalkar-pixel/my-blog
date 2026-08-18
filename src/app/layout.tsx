@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Akshatraj Kothalkar" }],
   creator: "Akshatraj Kothalkar",
   verification: {
-    google: "4blwEchb33VYqX-X6x28KJPAE_nYL-y7fmah6A4-XpQ",
+    google: "CTrdIkvNQ44kuo4aUPzshD5HHg-f5jiKW57Mw6iRPx0",
   },
   openGraph: {
     title: "Akshatraj Kothalkar | Mechanical Engineering Portfolio",
